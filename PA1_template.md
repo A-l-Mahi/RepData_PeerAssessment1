@@ -123,7 +123,8 @@ medianSteps.imp <- median(step.imp)
 ###### Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
 - Apparently Yes!
-- The overall observation seem to grow by a small margin
+- The overall observation seem to grow by a small margin and observations of steps  at interval 0 went down.
+
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
